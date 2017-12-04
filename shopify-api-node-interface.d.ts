@@ -1,4 +1,4 @@
-export interface IShopify {
+export declare interface IShopify {
   product: {
     count(): number;
     create(): any;
