@@ -4,5 +4,9 @@
   "description": "Typescript interface declarations for the official shopify-api-node module",
   "main": "shopify-api-node.ts",
   "author": "Stephen Gardner <99trainers.com@gmail.com> (99trainers.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/stephengardner/shopify-api-node-interface"
+  }
 }
