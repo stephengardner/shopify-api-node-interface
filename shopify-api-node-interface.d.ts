@@ -1,4 +1,5 @@
-export declare interface IShopify {
+export declare type IShopify = (params:{}) => IShopifyMethods;
+export declare interface IShopifyMethods {
   product: {
     count(): number;
     create(): any;
