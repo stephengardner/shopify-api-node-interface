@@ -4,9 +4,18 @@
 
 Typescript type definitions for the [Shopify API Node](https://github.com/MONEI/Shopify-api-node) module.
 
-#### Incomplete.  All contributions appreciated :)
+`npm i shopify-api-node-interface --save-dev`
+
+```
+import {Shopify} from 'shopify-api-node-interface';
+const Shopify: Shopify = require('shopify-api-node');
+... bingo
+```
+
+##### Incomplete.  All contributions appreciated :)
 
 Though incomplete, all the listed actions are at least plugged by an "any" type, so there is top-level intellisense.
+
 
 ## Progress:
 | Action           | Complete           | Started            | Not started        |
