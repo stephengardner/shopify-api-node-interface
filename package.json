@@ -1,6 +1,6 @@
 {
   "name": "shopify-api-node-interface",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Typescript interface declarations for the official shopify-api-node module",
   "main": "shopify-api-node-interface.ts",
   "author": "Stephen Gardner <99trainers.com@gmail.com> (99trainers.com)",
