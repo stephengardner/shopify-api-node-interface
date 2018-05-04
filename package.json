@@ -1,9 +1,11 @@
 {
   "name": "shopify-api-node-interface",
-  "version": "1.0.11",
+  "version": "2.0.0",
   "description": "Typescript interface declarations for the official shopify-api-node module",
+  "keywords": ["shopify", "api", "node", "typescript", "interface"],
+  "homepage": "https://github.com/stephengardner/shopify-api-node-interface",
   "main": "shopify-api-node-interface.ts",
-  "author": "Stephen Gardner <99trainers.com@gmail.com> (99trainers.com)",
+  "author": "Stephen Gardner <opensourceaugie@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
